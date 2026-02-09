@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\Debug\POSTLAB.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>POSTLAB.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>POSTLAB.map</FILE>
+  <FILE>POSTLAB.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>16</LINE></START>
+  <LOOP><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>50</LINE></LOOP>
+  <CONTADOR_1><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>57</LINE></CONTADOR_1>
+  <CONTADOR_2><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>87</LINE></CONTADOR_2>
+  <MOSTRAR_RESULTADO><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>114</LINE></MOSTRAR_RESULTADO>
+  <REVISAR_RESTAR_1><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>67</LINE></REVISAR_RESTAR_1>
+  <ESPERAR_SOLTAR_SUMAR_1><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>62</LINE></ESPERAR_SOLTAR_SUMAR_1>
+  <MOSTRAR_1><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>76</LINE></MOSTRAR_1>
+  <ESPERAR_SOLTAR_RESTAR_1><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>72</LINE></ESPERAR_SOLTAR_RESTAR_1>
+  <REVISAR_RESTAR_2><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>97</LINE></REVISAR_RESTAR_2>
+  <ESPERAR_SOLTAR_SUMAR_2><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>92</LINE></ESPERAR_SOLTAR_SUMAR_2>
+  <MOSTRAR_2><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>106</LINE></MOSTRAR_2>
+  <ESPERAR_SOLTAR_RESTAR_2><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>102</LINE></ESPERAR_SOLTAR_RESTAR_2>
+  <FIN_RESULTADO><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>144</LINE></FIN_RESULTADO>
+  <ESPERAR_SOLTAR_RESULTADO><FILE>C:\Users\xavia\Documents\Atmel Studio\7.0\POSTLAB\POSTLAB\main.asm</FILE><LINE>140</LINE></ESPERAR_SOLTAR_RESULTADO>
+ </LABELS>
+</ASSEMBLER_INFO>
